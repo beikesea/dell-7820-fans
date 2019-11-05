@@ -11,11 +11,11 @@ gcc dell_7820_fan_tools.c -o dell_7820_fan_tools
 Read fans using sudo
 
 <pre>
-sudo ./dell_7820_fans
+sudo ./dell_7820_fan_tools
 </pre>
 
 Control two rear fans using sudo
 
 <pre>
-sudo ./dell_7820_fans low
+sudo ./dell_7820_fan_tools low
 </pre>
