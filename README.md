@@ -1,5 +1,5 @@
 # dell-7820-fans
-Read Dell Precision Workstation 7820 Fans
+Dell Precision Workstation 7820 Fan Tools
 
 ### Usage
 Compile program:
