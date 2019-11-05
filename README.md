@@ -14,7 +14,7 @@ Read fans using sudo
 sudo ./dell_7820_fans
 </pre>
 
-Control two rare fans using sudo
+Control two rear fans using sudo
 
 <pre>
 sudo ./dell_7820_fans low
