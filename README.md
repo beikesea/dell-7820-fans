@@ -5,7 +5,7 @@ Read Dell Precision Workstation 7820 Fans
 Compile program:
 
 <pre>
-gcc dell_7820_fans.c -o dell_7820_fans
+gcc dell_7820_fan_tools.c -o dell_7820_fan_tools
 </pre>
 
 Read fans using sudo
@@ -14,3 +14,8 @@ Read fans using sudo
 sudo ./dell_7820_fans
 </pre>
 
+Control two rare fans using sudo
+
+<pre>
+sudo ./dell_7820_fans low
+</pre>
